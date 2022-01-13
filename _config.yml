@@ -105,9 +105,9 @@ author:
   avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio: "I am an **amazing** person."
   location: "Somewhere"
-  email:
+  email: "sunuppromise@gmail.com"
   links:
-    - label: "sunuppromise@gmail.com"
+    - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "sunuppromise@gmail.com"
     - label: "Website"
